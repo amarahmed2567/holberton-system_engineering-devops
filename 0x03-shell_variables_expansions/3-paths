@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d | uniq -c
+ls -d | wc -l
