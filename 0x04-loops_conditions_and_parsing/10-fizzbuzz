@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 # FizzBuzz numbers
 num=1
-while [ $num -e 100]
-then
+while [ $num -le 100]
 	if [ $((num % 15)) -eq 0 ]
 	then
 		echo "FizzBuzz"
