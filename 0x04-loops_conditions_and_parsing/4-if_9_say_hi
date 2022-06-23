@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Prints string 10 times except on 9th
 i=1
 while [ $((i++)) -le 9 ]
 do

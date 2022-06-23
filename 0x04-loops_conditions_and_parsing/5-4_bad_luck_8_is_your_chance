@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Displays bad luck 4, good luck 8, to teach Chinese culture
 i=0
 while [ $((i++)) -le 9 ]
 do

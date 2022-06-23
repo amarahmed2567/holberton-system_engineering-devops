@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Uses nested loops to display clock numbers
 hour=0
 while [ $hour -lt 13 ]
 do
